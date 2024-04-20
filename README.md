@@ -3,7 +3,7 @@ Client Side: Criando uma SPA para envio de SMS do Zero ao Deploy com React 19
 
 ## Objetivos do Projeto
 
-- Este projeto foi pensado para desenvolvedores iniciantes na carreira, com conhecimento em front end com React, que desejam aprender a construir uma SPA e consumir API com fetch API.
+- Este projeto foi pensado para desenvolvedores iniciantes na carreira, com conhecimento em frontend com React, que desejam aprender a construir uma SPA e consumir API com fetch API.
 - O projeto abordará o desenvolvimento de uma SPA para envio de SMS.
 - Todo esse desenvolvimento será baseado em boas práticas de código, incluindo padrões de projeto e documentação, garantindo a qualidade e a manutenibilidade do código produzido.
 

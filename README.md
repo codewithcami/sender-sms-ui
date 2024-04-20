@@ -1,5 +1,5 @@
 # sender-sms-ui
-Client Side: Criando uma SPA para envio de SMS do Zero ao Deploy com React 19
+Client Side: Criando uma SPA para envio de SMS do Zero ao Deploy com React 18
 
 ## Objetivos do Projeto
 

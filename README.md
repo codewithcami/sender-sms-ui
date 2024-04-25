@@ -3,13 +3,17 @@ Client Side: Criando uma SPA para envio de SMS do Zero ao Deploy com React 18
 
 ## Objetivos do Projeto
 
-- Este projeto foi pensado para desenvolvedores iniciantes na carreira, com conhecimento em frontend com React, que desejam aprender a construir uma SPA e consumir API com fetch API.
 - O projeto abordará o desenvolvimento de uma SPA para envio de SMS.
-- Todo esse desenvolvimento será baseado em boas práticas de código, incluindo padrões de projeto e documentação, garantindo a qualidade e a manutenibilidade do código produzido.
+- Este projeto foi pensado para desenvolvedores iniciantes na carreira, que possuem conhecimento básico em frontend com React e desejam aprender a construir uma SPA simples capaz de trocar dados com uma API utilizando a fetch API.
+- Todo esse desenvolvimento será baseado em boas práticas de código, garantindo a qualidade e a manutenibilidade do código produzido.
 
 ## Pré-Requisitos
 
-- Editor de Código para desenvolvimento TypeScript (Vs Code)
+- Ambiente para desenvolvimento configurado:
+  - Node.js 21.0.4 + Npm 10.0.5
+  - Git 2.34.1
+  - GitHub
+  - IDE ou Editor de Código (Vs Code)
 - Noções de Desenvolvimento Frontend (HTML, CSS e TypeScript)
 - Conhecimento acerca do React
 
